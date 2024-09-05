@@ -8,6 +8,6 @@ S. Fraschini, V. Kazeev, and I. Perugia,
 _In preparation_, 2024.
 
 ## Citing
-See [Citation.bib](Citation.bib) for the relevant references.
+See [Citation.bib](Citation.bib) to cite this repository.
 
 
