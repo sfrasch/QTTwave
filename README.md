@@ -7,4 +7,7 @@ S. Fraschini, V. Kazeev, and I. Perugia,
 **Symplectic FEM-QTT solution of the acoustic wave equation in the time domain**,
 _In preparation_, 2024.
 
+## Citing
+See [Citation.bib](/QTTwave/Citation.bib) for the relevant references.
+
 
