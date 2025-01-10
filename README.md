@@ -5,7 +5,7 @@ A repository to compute low-rank QTT representations of the matrices involved in
 <a id="1">[1]</a> 
 S. Fraschini, V. Kazeev, and I. Perugia,
 **Symplectic FEM-QTT solution of the acoustic wave equation in the time domain**,
-_In preparation_, 2024.
+[![arXiv](https://img.shields.io/badge/arXiv-2411.11321-b31b1b.svg)]((https://arxiv.org/abs/2411.11321)), 2024.
 
 ## Citing
 See [Citation.bib](Citation.bib) to cite this repository.
